@@ -1,3 +1,9 @@
+#login - POST /admin/login
+#"email=admin%40phptravels.com&password=demoadmin"
+
+
+#add user - POST /admin/accounts/customers/add
+#"fname=Sara&lname=hjgjhgjhghj&email=q123%40q.com&password=password1&mobile=&country=AF&address1=&address2=&status=yes&addaccount=1&type=customers&oldemail="
 
 class User 
 
